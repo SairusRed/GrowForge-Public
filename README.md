@@ -1,4 +1,4 @@
-# 🌿 GROWFORGE
+# 🌿 GROWFORGE - Forge your perfect Grow
 ### Der ultimative Cannabis Grow Assistent
 *by Sascha Moeske*
 
