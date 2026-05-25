@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f8df004e-96ee-4152-a20b-20a7d900ca52" width="100%" alt="werbung" />
+<img src="https://github.com/user-attachments/assets/8ebc1635-1bf2-436d-9ef1-1be5f8951ff3" width="100%" alt="Titelbanner" />
 
 # 🌿 GrowForge – Dein digitaler Garten-Meister 🌿
 
@@ -9,7 +9,9 @@ Du suchst nicht einfach nur eine App, sondern ein Werkzeug, das mit deinem Garte
 ---
 
 ## 🚀 Vision: Mehr als nur ein Tracker
-GrowForge ist als **modularer Werkzeugkasten** konzipiert. Schluss mit dutzenden Webseiten-Lesezeichen und unübersichtlichen Tabellen. Wir bündeln alles, was du für einen erfolgreichen Grow brauchst, in einer hochmodernen, nativen Android-Erfahrung.
+GrowForge ist als **modularer Werkzeugkasten** konzipiert. 
+Schluss mit dutzenden Webseiten-Lesezeichen und unübersichtlichen Tabellen. 
+Wir bündeln alles, was du für einen erfolgreichen Grow brauchst, in einer hochmodernen, nativen Android-Erfahrung.
 
 ### 💎 Die 10 Säulen von GrowForge:
 1.  **Grundlagen:** Von den Wachstumsphasen bis zum Profi-Guide – Wissen ist Ertrag.
