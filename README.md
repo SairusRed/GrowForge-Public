@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/f8df004e-96ee-4152-a20b-20a7d900ca52" width="100%" alt="werbung" />
+
 # 🌿 GrowForge – Dein digitaler Garten-Meister 🌿
 
 **Die modulare All-in-One Android-App für den modernen Cannabis-Grower.**
