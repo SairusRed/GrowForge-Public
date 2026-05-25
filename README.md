@@ -1,87 +1,57 @@
-# 🌿 GROWFORGE - Forge your perfect Grow
-### Der ultimative Cannabis Grow Assistent
-*by Sascha Moeske*
+# 🌿 GrowForge – Dein digitaler Garten-Meister 🌿
+
+**Die modulare All-in-One Android-App für den modernen Cannabis-Grower.**
+
+Du suchst nicht einfach nur eine App, sondern ein Werkzeug, das mit deinem Garten wächst? Willkommen bei **GrowForge** – dem Schweizer Taschenmesser für dein Zelt, deinen Keller oder deinen Balkon.
 
 ---
 
-> **Professionelles Grow-Management. Immer dabei. Immer griffbereit.**
+## 🚀 Vision: Mehr als nur ein Tracker
+GrowForge ist als **modularer Werkzeugkasten** konzipiert. Schluss mit dutzenden Webseiten-Lesezeichen und unübersichtlichen Tabellen. Wir bündeln alles, was du für einen erfolgreichen Grow brauchst, in einer hochmodernen, nativen Android-Erfahrung.
+
+### 💎 Die 10 Säulen von GrowForge:
+1.  **Grundlagen:** Von den Wachstumsphasen bis zum Profi-Guide – Wissen ist Ertrag.
+2.  **Infos:** Dein persönliches Cannabis-Lexikon, FAQ und aktuelle Updates.
+3.  **Grow-Planung:** Behalte die Kosten im Griff, schätze deinen Ertrag und plane deine Pflanzenanzahl.
+4.  **Klima & Umgebung:** Präzise VPD-Rechner, CO2-Optimierung und Taupunkt-Analysen.
+5.  **Nährstoffe & Wasser:** Perfekte EC/pH-Werte, Mischrechner und Mangel-Diagnose.
+6.  **Licht:** PPFD/DLI-Berechnungen, Stromkosten-Check und Spektral-Analysen.
+7.  **Samen & Breeder:** Finde die perfekte Genetik in unserer Breeder- und Samen-DB.
+8.  **Dünger & Anbieter:** Detaillierte NPK-Checks und individuelle Düngerpläne.
+9.  **Sonstiges:** Einheitenrechner, Trimm-Timer und nützliche Community-Links.
+10. **Einstellungen:** Volle Kontrolle über Design, Sprache (DE/EN) und Einheiten.
 
 ---
 
-## 🚀 Was ist GROWFORGE?
-
-GROWFORGE ist die All-in-One Android App für Cannabis-Grower – entwickelt von Growern, für Grower. Schluss mit verstreuten Notizen, unzuverlässigen Online-Rechnern und endlosem Suchen nach Informationen. GROWFORGE bündelt alles was du brauchst in einer modernen, intuitiven App.
-
----
-
-## 💚 Warum GROWFORGE?
-
-- 🎯 **Alles an einem Ort** – Kein Wechsel zwischen verschiedenen Apps und Websites
-- ⚡ **Blitzschnell** – Ergebnisse in Echtzeit, auch offline
-- 🎨 **Modernes Design** – Dark & Light Theme, komplett auf Deutsch & Englisch
-- 🔧 **Profi-Tools** – Entwickelt mit dem Anspruch professioneller Grow-Software
-- 📱 **Für Android optimiert** – Sauber, schnell und intuitiv bedienbar
+## 🎨 Design trifft Funktionalität
+Wir wissen, dass du im Grow-Room oft wenig Licht hast oder mit einer Hand arbeitest. Deshalb setzt GrowForge auf:
+-   **Pure Dark Design:** Kontrastreiches "GrowGreen" (#9AC31B) auf tiefem Schwarz – schont die Augen und den Akku.
+-   **Immersive Experience:** Fullscreen-Modus ohne störende Systemleisten für maximalen Fokus.
+-   **Intuitive Navigation:** Ein flüssiges **Endlos-Karussell** (HorizontalPager) lässt dich nahtlos zwischen den Kategorien wischen.
+-   **Festes UI-Gerüst:** Header, Footer und Navigation bleiben stabil, während der Inhalt fließt.
 
 ---
 
-## 🛠️ Features
-
-### ✅ Bereits verfügbar
-| Feature | Beschreibung |
-|--------|-------------|
-| 🌡️ VPD Rechner | Präzise Berechnung des Sättigungsdefizits mit Heatmap & Verlauf |
-| 🌱 Breeder Datenbank | Detaillierte Infos zu den bekanntesten Cannabis-Breedern weltweit |
-
-### 🔜 In Kürze verfügbar
-| Feature | Beschreibung |
-|--------|-------------|
-| 📅 Grow-Planung | Tagebuch, Ernte-Rechner, Lichtplan, Kostenrechner |
-| 💧 Nährstoffe & Wasser | EC/TDS, pH Rechner, Nährstoff-Mischrechner |
-| 💡 Licht | PPFD/DLI Rechner, Lampenabstand, Stromkosten |
-| 🧪 Dünger & Anbieter | Dünger Datenbank, Anbieter Vergleich, Dosierungs-Rechner |
-| 🌍 Samen & Breeder | Samen Datenbank, Kreuzungs-Planer, Keimungs-Tracker |
-| 📖 Grundlagen | Cannabis Lexikon, Wachstumsphasen Guide, Gesetzliche Infos |
+## 🛠️ State-of-the-Art Tech Stack
+GrowForge wird mit modernsten Technologien entwickelt, um maximale Performance und Stabilität zu garantieren:
+-   **100% Native Kotlin:** Schnell, sicher und zukunftssicher.
+-   **Jetpack Compose & Material 3:** Modernste UI-Engine für flüssige Animationen.
+-   **Room Database:** Alle Daten werden lokal gespeichert. Dein Grow-Wissen gehört dir und funktioniert auch im Funkloch (Offline-First).
+-   **Dynamic Localization:** Wechsle jederzeit live zwischen Deutsch und Englisch.
 
 ---
 
-## 📲 Download
-
-> 🚧 **App befindet sich in aktiver Entwicklung.**
-> Play Store Veröffentlichung in Kürze geplant.
-
----
-
-## 📸 Screenshots
-
-*Coming soon...*
+## 💰 Fair-Play Modell: Freemium
+Wir glauben an Qualität. Deshalb bietet GrowForge:
+-   **Umfangreiche Free-Version:** Wichtige Tools wie der VPD-Rechner, Wachstumsphasen-Guides und Rechner sind sofort kostenlos nutzbar.
+-   **Lifetime Unlock:** Einmal zahlen, ewig nutzen. Keine Abos, keine versteckten Kosten. Ein Kauf schaltet alle aktuellen und zukünftigen Premium-Features frei.
 
 ---
 
-## ⚙️ Technische Details
+## 📅 Roadmap & Status
+GrowForge befindet sich in aktiver Entwicklung. Wir schmieden täglich an neuen Modulen, um den Goldstandard für Grow-Apps zu setzen.
 
-- **Plattform:** Android 7.0+ (API 24)
-- **Sprachen:** Deutsch & Englisch
-- **Design:** Material Design 3 mit Jetpack Compose
-- **Theme:** Dark & Light Mode
-- **Größe:** Kompakt & performant
+**Interessiert?** Folge dem Projekt hier auf GitHub und sei einer der Ersten, die die App im Google Play Store testen dürfen!
 
 ---
-
-## 👨‍💻 Entwickler
-
-**Sascha Moeske**
-- GitHub: [@SairusRed](https://github.com/SairusRed)
-
----
-
-## 📄 Lizenz & Copyright
-
-© 2026 „GROWFORGE" by Sascha Moeske. All rights reserved.
-
-Der Quellcode ist urheberrechtlich geschützt und nicht zur Weitergabe oder Nutzung freigegeben.
-
----
-
-<div align="center">
-  <strong>🌿 GROWFORGE – Forge your perfect grow. 🌿</strong>
-</div>
+*© 2026 GrowForge by Sascha Moeske. Made with 💚 for the growing community.*
